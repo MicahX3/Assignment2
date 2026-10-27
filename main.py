@@ -60,6 +60,7 @@ def main():
         print("4 Per credit")
         print("5 Per CS 1430 class")
         print("6 Per minute")
+        print("Q Quit")
         choice = input("Choose an option: ")
 
 
